@@ -238,7 +238,7 @@ const adder = () => {
 export default adder;
 
 ```
-Following this, we'll update `helper.ts`` and `app.ts` to integrate the new plugin.
+Following this, we'll update `helper.ts` and `app.ts` to integrate the new plugin.
 
 ```ts
 //helper.ts
