@@ -40,7 +40,7 @@ export default {} as FunRouterOptions;
 
 # Crafting Our First Plugin
 
-Let's dive into plugin creation by adding `helloWorld.ts`` in the `src/plugins` directory:
+Let's dive into plugin creation by adding `helloWorld.ts` in the `src/plugins` directory:
 
 ```ts
 
