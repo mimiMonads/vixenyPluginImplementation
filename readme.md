@@ -30,7 +30,7 @@ Bun.serve({
 });
 ```
 
-Next, in in `src/helpers.ts`:
+Next, in `src/helpers.ts`:
 
 ```ts
 import { FunRouterOptions } from 'vixeny/components/http/types';
