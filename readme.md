@@ -117,7 +117,7 @@ export default {...url};
 
 ```
 
-We'll incorporate this into `helper.ts`` and update `app.ts` accordingly.
+We'll incorporate this into `helper.ts` and update `app.ts` accordingly.
 
 ```ts
 //helper.ts
@@ -139,7 +139,7 @@ We'll incorporate this into `helper.ts`` and update `app.ts` accordingly.
 
 # Exploring GlobalOptions
 
-Due to the polymorphic nature of Vixeny, we don't know what was the nname of our plugin, but using symbol we va infer it
+Understanding the polymorphic nature of Vixeny can be challenging. However, with the use of symbols, we can infer the name of our plugin:
 
 ```ts
 /**
